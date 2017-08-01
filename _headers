@@ -1,4 +1,2 @@
-/*
-test-header: testing
-/
-second-test-header: nested
+https://first-branch--gerald-split-test.netlify.com/*
+  Basic-Auth: someuser:somepassword anotheruser:anotherpassword
