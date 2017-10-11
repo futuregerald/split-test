@@ -1,0 +1,5 @@
+[[redirects]]
+origin = "/a2"
+destination = "https://requestb.in/1ms85eq1"
+status = 200
+headers = {Host = "ayuda.simplii.mx", X-From = "Netlify"}
