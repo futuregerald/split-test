@@ -1,14 +1,1 @@
-http://simplii.mx/* https://www.simplii.mx/:splat 301!
-http://www.simplii.mx/* https://www.simplii.mx/:splat 301!
-http://simplii.com.mx/* https://www.simplii.mx/:splat 301!
-https://simplii.com.mx/* https://www.simplii.mx/:splat 301!
-http://www.simplii.com.mx/* https://www.simplii.mx/:splat 301!
-https://www.simplii.com.mx/* https://www.simplii.mx/:splat 301!
-http://simplii-website.netlify.com/* https://staging.simplii.mx/:splat 301!
-https://simplii-website.netlify.com/* https://staging.simplii.mx/:splat 301!
-http://staging.www.simplii.mx/* https://staging.simplii.mx/:splat 301!
-https://staging.www.simplii.mx/* https://staging.simplii.mx/:splat 301!
-http://staging.simplii.mx/* https://staging.simplii.mx/:splat 301!
-https://staging.simplii.mx/ayuda/* http://ayuda.simplii.mx/:splat 301!
-https://www.simplii.mx/ayuda/* http://ayuda.simplii.mx/:splat 301!
-https://www.simplii.mx/empleos/customer-experience/ https://www.simplii.mx/empleos/especialista/:splat 301!
+/blog/*  https://gorrion.pl/blog/:splat  200
